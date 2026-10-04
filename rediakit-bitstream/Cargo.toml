@@ -1,0 +1,10 @@
+[package]
+name = "rediakit-bitstream"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+description = "Config record parsing, NAL framing and keyframe detection shared across rediakit"
+keywords = ["video", "h264", "h265", "annexb", "av1"]
+categories = ["multimedia::video"]
+rust-version.workspace = true

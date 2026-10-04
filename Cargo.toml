@@ -1,0 +1,12 @@
+[workspace]
+resolver = "3"
+members = [
+  "rediakit-bitstream",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2024"
+license = "MPL-2.0"
+repository = "https://github.com/mlm-games/rediakit"
+rust-version = "1.93"
